@@ -22,8 +22,8 @@ this is a new piece of text with some *italic text* and even some_**italic and b
 this is a demo for git course [Training dragon](https://www.trainingdragon.co.uk/)
 
 ### js demo code
-*** javascript
+```javascript
 const foo = () => {
 console.log('just a demo');
 }
-***
+```
