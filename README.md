@@ -24,6 +24,6 @@ this is a demo for git course [Training dragon](https://www.trainingdragon.co.uk
 ### js demo code
 *** javascript
 const foo = () => {
-console logo('just a demo');
+console.log('just a demo');
 }
 ***
